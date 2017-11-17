@@ -39,6 +39,7 @@ set smartindent
 set autoindent
 "set cindent
 
+
 augroup MyGroup
 	autocmd!
 	"Asir
